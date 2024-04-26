@@ -1,0 +1,61 @@
+
+body {
+    color: #fff;
+    font-family: Arial, sans-serif;
+    background-color: #313745;
+    margin: 0;
+    height: 100vh;
+}
+
+  .container1 {
+    width: 50%;
+    margin: 20px;
+    background-color: transparent; /* Set background color to transparent */
+    color: #fff;
+    padding: 30px;
+    border: gray solid;
+    border-radius: 8px;
+    position: relative; /* Add position relative for positioning pseudo-element */
+  }
+  
+  .container1::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to bottom, #1b1b1b9d 0%, #1b1b1b 100%);
+    z-index: -1; /* Place the pseudo-element behind the content */
+    border-radius: 8px; /* Match the border-radius of the container */
+  }
+  .btn-primary{
+    width: 40%;
+    height: 35px;
+  }
+  
+  .payment-select-container{
+    width: 50%;
+    height: 40px;
+  }
+
+  .payment-select{
+    background-color: gray;
+    border: 0;
+    color: #fff;
+    height: 35px;
+  }
+
+  .payment-select:hover{
+    background-color: rgb(120, 120, 120);
+  }
+
+  .payment-select option{
+    background-color: #fff;
+    color: #1b1b1b;
+  }
+
+  .select-options{
+    background-color: #fff;
+  }
+

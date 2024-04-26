@@ -1,0 +1,101 @@
+body {
+    color: #fff;
+    font-family: Arial, sans-serif;
+    background-color: #313745;
+    margin: 0;
+    height: 100vh;
+}
+
+.item-img {
+    width: 100%; 
+    height: 80%;
+    border-radius: 0;
+    max-width: 400px;
+    margin-top: 20px;
+    object-fit: contain;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h6 {
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+p.money-text {
+    color: rgb(43, 189, 70);
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.btn {
+    height: 60%;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+
+.card-body {
+    padding: 20px;
+    margin: 25px;
+    margin-top: 50px;
+}
+
+.card-info {
+    padding-left: 20px;
+}
+
+
+.item-price-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.item-price {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.card-container {
+    padding: 20px;
+    height: 85%;
+    margin: 15px;
+}
+
+.item-card {
+    background-color: #313745;
+    width: 80%;
+    margin-top: 25px;
+}
+
+.item-info {
+    background-color: #25282e;
+    height: fit-content;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-bottom: 30px;
+}
+
+.item-info ul {
+    list-style: none;
+    padding: 0;
+}
+
+.item-info ul li {
+    margin-bottom: 10px;
+}
+
+.seperation{
+    background-color: #25282e;
+    color: #fff;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}

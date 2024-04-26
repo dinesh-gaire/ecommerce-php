@@ -1,0 +1,64 @@
+[
+    {
+        "item-pic":"https://www.stars-music.fr/medias/yamaha/fsc-ta-transacoustic-cutaway-epicea-acajou-rw-600-184862.jpg",
+        "item-name": "Yamaha FSC-TA Ruby Red Acoustic Guitar",
+        "item-id": 101,
+        "item-price": 62490,
+        "item-color": "Ruby Red",
+        "item-info":{
+            "p1": "Concert-body with cutaway",
+            "p2": "Onboard reverb with chorus effect with simple controls",
+            "p3": "Solid spruce top with mahogany back and sides",
+            "p4": "Nato neck with rosewood fretboard",
+            "p5": "Scalloped Bracing for louder, richer acoustic sounds",
+            "p6": "Built in reverb and chorus effects. No need for amp or external gear"
+        }
+    },
+
+    {
+        "item-pic": "https://m.media-amazon.com/images/I/51I019jm4wL.jpg",
+        "item-name": "Ibanez Bass Guitar SR series Standard 6 string",
+        "item-id": 102,
+        "item-price": 44390,
+        "item-color": "Weathered Black",
+        "item-info": {
+            "p1": "A value-packed electric bass designed for beginners.",
+            "p2": "Features a 5-piece maple/rosewood neck for added sustain.",
+            "p3": "Equipped with dual humbucking pickups, 3-band EQ, and Power Tap for versatile tones.",
+            "p4": "Includes Accu-cast B126 bridge for solid intonation.",
+            "p5": "Active electronics with easy-access battery compartment on the back."
+        }
+    },
+    
+
+    {
+        "item-pic":"https://m.media-amazon.com/images/I/61kSImd1LsL._SL1500_.jpg",
+        "item-name": "Kadence Acoustic Begginers Drum Kit with Cymbals",
+        "item-id": 103,
+        "item-price": 32620,
+        "item-color": "Black",
+        "item-info":{
+            "p1": "A complete 5-piece drum set for a comprehensive drumming experience.",
+            "p2": "Built with high-quality, durable materials for long-lasting performance.",
+            "p3": "Full-size design ensures a comfortable playing experience for drummers of all sizes.",
+            "p4": "Includes essential cymbals for creating dynamic and versatile drumming sounds.",
+            "p5": "Ideal for beginners, providing a complete setup and convenience for newcomers starting their drumming journey."
+        }
+    },
+
+    {
+        "item-pic": "https://m.media-amazon.com/images/I/51MXyutGxIL._SL1000_.jpg",
+        "item-name": "YAMAHA PSR-E373 61-Keys Portable Keyboard",
+        "item-id": 104,
+        "item-price": 15540,
+        "item-color": "Black",
+        "item-info": {
+            "p1": "Impressively expressive, the PSR-E373 features an auto accompaniment function with backing in various musical genres.",
+            "p2": "Ideal for beginners and hobbyists, packed with over 622 stunning instrument Voices and diverse accompaniment Styles.",
+            "p3": "Includes 11 Super Articulation Lite Voices for greater real-time control, inherited from powerful PSR-S models.",
+            "p4": "Comes with a high-quality gig bag for 61-key Yamaha instruments, ensuring protection from wear, tear, and dirt.",
+            "p5": "In the box: Yamaha PSRE273 Keyboard + Bajaao Gig Bag to protect your instrument."
+        }
+    }
+    
+]

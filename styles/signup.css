@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://i.imgur.com/nD6ivpW.jpg');
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+  }
+
+  form{
+      width: 75%;
+  }
+  
+  .container1 {
+  width: 50%;
+  margin: 20px;
+  background-color: transparent; /* Set background color to transparent */
+  color: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+  position: relative; /* Add position relative for positioning pseudo-element */
+}
+
+.container1::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to bottom, #1b1b1b9d 0%, #1b1b1b 100%);
+  z-index: -1; /* Place the pseudo-element behind the content */
+  border-radius: 8px; /* Match the border-radius of the container */
+}
+
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    color: #fff;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: calc(100% - 12px);
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #2980b9;
+  }
+  
+  
+  .switch-link {
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+    width: fit-content;
+  }

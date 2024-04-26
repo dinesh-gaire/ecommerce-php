@@ -1,0 +1,35 @@
+.cart-img{
+    width: 20%;
+    border: gray 1px solid;
+    margin: 0;
+}
+
+.table-border{
+    border: gray solid;
+    margin: 30px;
+}
+
+.gtotal{
+    color: #F79235;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card-body{
+    margin: 30px;
+}
+
+.card-title{
+    font-size: 32px;
+}
+
+.bg-navy{
+    background-color: #313745;
+}
+
+.card-bg{
+    background-color: #25282e;
+    border: gray solid;
+    margin: 30px;
+    color: #fff;
+}

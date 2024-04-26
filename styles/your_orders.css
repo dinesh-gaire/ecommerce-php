@@ -1,0 +1,40 @@
+.cart-img {
+    width: 20%;
+    border: gray 1px solid;
+    margin: 0;
+}
+
+.orders-text {
+    color: #fff;
+}
+
+.table-border {
+    border: gray solid;
+    margin: 30px;
+    padding: 0;
+}
+
+.card-body {
+    margin: 30px;
+}
+
+.card-title {
+    font-size: 32px;
+}
+
+.bg-navy {
+    background-color: #313745;
+}
+
+.card-bg {
+    background-color: #25282e;
+    border: gray solid;
+    margin: 30px;
+    color: #fff;
+}
+
+.ex-padding{
+    padding: 40px;
+    padding-top: 0;
+}
+
